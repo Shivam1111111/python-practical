@@ -22,10 +22,14 @@ print(listx)
 # tuplex = tuple(listx)
 # print(tuplex)
 
-##################### to convert a tple into string
+#to convert a tple into string
 
 tup_s = ('s','h','i','v','a','m')
 print(tup_s)
 str = ''.join(tup_s)
 print(str)
+
+# To find the length of tuple
+length = len(tuple)
+print(length)
 
